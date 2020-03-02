@@ -1,4 +1,4 @@
-# hello_flutter
+# hello flutter
 
 A new Flutter application.
 
