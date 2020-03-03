@@ -5,8 +5,13 @@ void main() => runApp(GettingStartedApp());
 class GettingStartedApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
+
+
+
     return new MaterialApp(
         title: "Getting Started",
+        debugShowCheckedModeBanner: false,
+
         home: new Scaffold(
           appBar: new AppBar(
             title: new Text("Hello Flutter"),
